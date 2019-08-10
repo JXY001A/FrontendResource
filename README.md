@@ -15,3 +15,5 @@
 4. [react-router源码解析](https://juejin.im/post/5d4a68f5e51d4561ae4da5c6?utm_source=gold_browser_extension)
 ## SSR
 1. [react + koa SSR](https://juejin.im/post/5c627d9b6fb9a049f23d3e38)
+## webpack
+1. [webpack 4 新增 sideEffects 配置的作用和注意事项](https://juejin.im/post/5d4d39c35188256c234351ca?utm_source=gold_browser_extension)
