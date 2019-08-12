@@ -18,3 +18,5 @@
 1. [react + koa SSR](https://juejin.im/post/5c627d9b6fb9a049f23d3e38)
 ## webpack
 1. [webpack 4 新增 sideEffects 配置的作用和注意事项](https://juejin.im/post/5d4d39c35188256c234351ca?utm_source=gold_browser_extension)
+## React
+1. [可靠React组件设计的7个准则之SRP](https://juejin.im/post/5d4acb28e51d45620771f082?utm_source=gold_browser_extension)
