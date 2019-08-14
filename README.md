@@ -24,3 +24,5 @@
 2. [react-router源码解析](https://juejin.im/post/5d4a68f5e51d4561ae4da5c6?utm_source=gold_browser_extension)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
+## HTTTP
+1. [图解HTTPS基本原理](https://juejin.im/post/5d53aa04f265da03934bd70c?utm_source=gold_browser_extension)
