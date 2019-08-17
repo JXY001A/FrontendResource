@@ -22,6 +22,7 @@
 ## React
 1. [可靠React组件设计的7个准则之SRP](https://juejin.im/post/5d4acb28e51d45620771f082?utm_source=gold_browser_extension)
 2. [react-router源码解析](https://juejin.im/post/5d4a68f5e51d4561ae4da5c6?utm_source=gold_browser_extension)
+3. [21个React性能优化技巧](https://mp.weixin.qq.com/s/iZqV6GAi5zyX5P48hR4VLA)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
 ## HTTTP
