@@ -29,5 +29,7 @@
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
 ## HTTTP
 1. [图解HTTPS基本原理](https://juejin.im/post/5d53aa04f265da03934bd70c?utm_source=gold_browser_extension)
+## 数据结构算法
+1. [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1?utm_source=gold_browser_extension)
 ## 其他
 1. [爬虫，其实本就是这么简单](https://juejin.im/post/5ac9bc56f265da238c3af18f?utm_source=gold_browser_extension)
