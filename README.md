@@ -3,6 +3,7 @@
 1. [事件循环机制 Event Loop](https://juejin.im/post/5c3d8956e51d4511dc72c200?utm_source=gold_browser_extension)
 2. [JavaScript设计模式与开发实践(全)](https://juejin.im/post/5c1ee1d66fb9a049ab0d9af6)
 3. [通杀 Event Loop 面试题](https://juejin.im/post/5d50d2e3e51d4561ea1a941f?utm_source=gold_browser_extension)
+4. [5个 JS 解构有趣的用途](https://juejin.im/post/5d5f29dde51d456216553519?utm_source=gold_browser_extension)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
