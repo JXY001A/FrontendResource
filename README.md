@@ -35,3 +35,4 @@
 1. [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1?utm_source=gold_browser_extension)
 ## 其他
 1. [爬虫，其实本就是这么简单](https://juejin.im/post/5ac9bc56f265da238c3af18f?utm_source=gold_browser_extension)
+2. [最常见的 Git 问题和操作清单汇总](https://juejin.im/post/5d5d61e96fb9a06ace5254bd?utm_source=gold_browser_extension)
