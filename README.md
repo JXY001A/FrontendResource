@@ -5,6 +5,7 @@
 3. [通杀 Event Loop 面试题](https://juejin.im/post/5d50d2e3e51d4561ea1a941f?utm_source=gold_browser_extension)
 4. [5个 JS 解构有趣的用途](https://juejin.im/post/5d5f29dde51d456216553519?utm_source=gold_browser_extension)
 5. [从多线程到Event Loop全面梳理](https://juejin.im/post/5d5b4c2df265da03dd3d73e5?utm_source=gold_browser_extension)
+6. [你了解Promise吗](https://mp.weixin.qq.com/s/mvqR4oEq1VcTYB57QqGIvQ)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
