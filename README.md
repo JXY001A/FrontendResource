@@ -31,6 +31,7 @@
 4. [源码解析React Hook构建过程：没有设计就是最好的设计](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491845&idx=1&sn=8992994eb5674f14a2ea5250c5b517ec&chksm=f9525446ce25dd50f4895894cb39fb509424107d44da7768be75bc653882c530d69fa9320ea2&mpshare=1&scene=1&srcid=&key=72f5a07958b4f89bafe1580c9dbc6b85718c46691bde3faa64c09dcd41f11222c96383b48f354868409596356f55d2ac7a288ac4be846353e829c2a971747469e40fbd7729a3ffc8ae374fe9d15cf664&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PDGzzmFpZpjhxIytg34TZO1sGjsG9hkNP%2F%2FeNJsXDAaedB%2FXhTereqqueeRVcq%2Br)
 5. [160行代码实现动态炫酷的可视化图表 - 排行榜](https://juejin.im/post/5d565015f265da03eb13c575?utm_source=gold_browser_extension)
 6. [2019年17道高频React面试题及详解](https://juejin.im/post/5d5f44dae51d4561df7805b4?utm_source=gold_browser_extension)
+7. [2019年，实现 React 动画的 5 种方式](https://juejin.im/post/5d66a07e6fb9a06b3260858b?utm_source=gold_browser_extension)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
 3. [15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364?utm_source=gold_browser_extension)
