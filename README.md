@@ -32,6 +32,7 @@
 5. [160行代码实现动态炫酷的可视化图表 - 排行榜](https://juejin.im/post/5d565015f265da03eb13c575?utm_source=gold_browser_extension)
 6. [2019年17道高频React面试题及详解](https://juejin.im/post/5d5f44dae51d4561df7805b4?utm_source=gold_browser_extension)
 7. [2019年，实现 React 动画的 5 种方式](https://juejin.im/post/5d66a07e6fb9a06b3260858b?utm_source=gold_browser_extension)
+8. [React源码解析之ExpirationTime](https://juejin.im/post/5d6a572ce51d4561fa2ec0bc?utm_source=gold_browser_extension)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
 3. [15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364?utm_source=gold_browser_extension)
