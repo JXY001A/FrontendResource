@@ -7,6 +7,7 @@
 5. [从多线程到Event Loop全面梳理](https://juejin.im/post/5d5b4c2df265da03dd3d73e5?utm_source=gold_browser_extension)
 6. [你了解Promise吗](https://mp.weixin.qq.com/s/mvqR4oEq1VcTYB57QqGIvQ)
 7. [Array.from() 五个超好用的用途](https://juejin.im/post/5d66b019f265da03a715e5d7?utm_source=gold_browser_extension)
+8. [如何写出一个惊艳面试官的深拷贝](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1?utm_source=gold_browser_extension)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
