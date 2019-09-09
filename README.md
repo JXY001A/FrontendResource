@@ -52,3 +52,5 @@
 3. [两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d?utm_source=gold_browser_extension)
 4. [七篇前端面试必考知识点，助你一臂之力](https://juejin.im/post/5d5fdfb26fb9a06af7123e4f?utm_source=gold_browser_extension)
 5. [一种对开发更友好的前端骨架屏自动生成方案](https://juejin.im/post/5d71f7dd5188252b1c5b02df?utm_source=gold_browser_extension)
+5. [剖析并手写十五个重要 API 的实现](https://mp.weixin.qq.com/s/BTzLPZpU6VeDEmeocgQSGA)
+
