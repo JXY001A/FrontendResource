@@ -38,7 +38,8 @@
 8. [React源码解析之ExpirationTime](https://juejin.im/post/5d6a572ce51d4561fa2ec0bc?utm_source=gold_browser_extension)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
-3. [15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364?utm_source=gold_browser_extension)
+2. [15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364?utm_source=gold_browser_extension)
+3. [centos下安装java8环境](https://blog.csdn.net/weixin_42294641/article/details/82905685)
 ## HTTTP
 1. [图解HTTPS基本原理](https://juejin.im/post/5d53aa04f265da03934bd70c?utm_source=gold_browser_extension)
 2. [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
