@@ -46,6 +46,8 @@
 2. [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
 ## 数据结构算法
 1. [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1?utm_source=gold_browser_extension)
+## 技巧
+1. [逐步优雅的表单验证](https://juejin.im/post/5d5b4525e51d4561bb33fb4d?utm_source=gold_browser_extension)
 ## nodeJS
 1. [深入理解Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9?utm_source=gold_browser_extension#heading-2)
 ## 其他
