@@ -59,4 +59,6 @@
 5. [一种对开发更友好的前端骨架屏自动生成方案](https://juejin.im/post/5d71f7dd5188252b1c5b02df?utm_source=gold_browser_extension)
 5. [剖析并手写十五个重要 API 的实现](https://mp.weixin.qq.com/s/BTzLPZpU6VeDEmeocgQSGA)
 6. [高频JavaScript手写面试题及答案](https://mp.weixin.qq.com/s/CY-igdCB_U-DtA4E2BKhhA)
+## 浏览器
+1. [探寻浏览器渲染的秘密](https://mp.weixin.qq.com/s/WJXd4p3H97Lzr-8pFu9wgw)
 
