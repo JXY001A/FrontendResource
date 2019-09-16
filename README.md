@@ -43,6 +43,7 @@
 2. [15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364?utm_source=gold_browser_extension)
 3. [centos下安装java8环境](https://blog.csdn.net/weixin_42294641/article/details/82905685)
 4. [Jenkins打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
+5. [前端工程化：Docker、k8s、Serverless](https://zhuanlan.zhihu.com/p/81735067?utm_source=wechat_session&utm_medium=social&utm_oi=635253896335986688)
 ## HTTTP
 1. [图解HTTPS基本原理](https://juejin.im/post/5d53aa04f265da03934bd70c?utm_source=gold_browser_extension)
 2. [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
