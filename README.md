@@ -11,6 +11,7 @@
 9. [彻底弄懂 Promise 原理](https://juejin.im/post/5d6f7c83e51d4561c541a712?utm_source=gold_browser_extension)
 10. [浏览器的一些“滚动”行为鉴赏](https://juejin.im/post/5d75adfbe51d4561e84fcc9c?utm_source=gold_browser_extension)
 11. [如何优雅处理前端异常](https://mp.weixin.qq.com/s/pP9y98Djs0knNO-EJgS9lQ)
+12. [这一次带你彻底了解Cookie](https://mp.weixin.qq.com/s/oOGIuJCplPVW3BuIx9tNQg)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
