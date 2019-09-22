@@ -42,6 +42,7 @@
 9. [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 10. [TypeScript与React的实战技巧](https://mp.weixin.qq.com/s/0OOftjQjxr2nXDB4PgnfOw)
 11. [完全理解 redux（从零实现一个 redux）](https://juejin.im/entry/5d802a09e51d4561c541a763?utm_source=gold_browser_extension)
+12. [使用 React Hook 检查网络连接状态](https://juejin.im/post/5d81f81f6fb9a06adb80185c)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
 2. [15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364?utm_source=gold_browser_extension)
