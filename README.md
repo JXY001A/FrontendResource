@@ -25,6 +25,7 @@
 4. [react-router源码解析](https://juejin.im/post/5d4a68f5e51d4561ae4da5c6?utm_source=gold_browser_extension)
 5. [聊一聊CSS动画](https://juejin.im/post/5d2351506fb9a07eb74b617a?utm_source=gold_browser_extension)
 6. [灵活运用CSS开发技巧(66个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293?utm_source=gold_browser_extension)
+7. [用css3实现惊艳面试官的背景即背景动画](https://juejin.im/post/5d86fc096fb9a06ae94d6d7a?utm_source=gold_browser_extension)
 ## SSR
 1. [react + koa SSR](https://juejin.im/post/5c627d9b6fb9a049f23d3e38)
 ## webpack
