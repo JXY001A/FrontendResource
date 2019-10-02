@@ -50,6 +50,7 @@
 3. [centos下安装java8环境](https://blog.csdn.net/weixin_42294641/article/details/82905685)
 4. [Jenkins打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
 5. [前端工程化：Docker、k8s、Serverless](https://zhuanlan.zhihu.com/p/81735067?utm_source=wechat_session&utm_medium=social&utm_oi=635253896335986688)
+6. [前端工程化：Docker、k8s、Serverless](https://zhuanlan.zhihu.com/p/81735067?utm_source=wechat_session&utm_medium=social&utm_oi=635253896335986688)
 6. [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751?utm_source=gold_browser_extension)
 ## HTTTP
 1. [图解HTTPS基本原理](https://juejin.im/post/5d53aa04f265da03934bd70c?utm_source=gold_browser_extension)
@@ -82,3 +83,7 @@
 1. [常见的三个 JS 面试题](https://juejin.im/post/5d8bfef051882511f444f565?utm_source=gold_browser_extension)
 ##  软件
 1. [开源软件 | 使用可视化界面自定义输出带注释的项目文件树形结构](https://juejin.im/post/5d8d83656fb9a04ddb3b6630?utm_source=gold_browser_extension)
+## 原生功能实现
+1. [高频JavaScript手写面试题及答案](https://mp.weixin.qq.com/s/CY-igdCB_U-DtA4E2BKhhA)
+## web 安全
+1. [简析 6 种 Web 安全漏洞及解决方案](https://mp.weixin.qq.com/s/tBKZj6lNd2OcINPjMsCEtQ)
