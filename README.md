@@ -27,6 +27,7 @@
 6. [灵活运用CSS开发技巧(66个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293?utm_source=gold_browser_extension)
 7. [用css3实现惊艳面试官的背景即背景动画](https://juejin.im/post/5d86fc096fb9a06ae94d6d7a?utm_source=gold_browser_extension)
 8. [CSS如何在幕后工作](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=2&sn=afe905aeb2942aaa506253678fccd322&chksm=f95256ebce25dffd1957cba7ce5e844194b94cbd7f6b24f3d28c3418ec3aa0671c844ef18d3b&mpshare=1&scene=1&srcid=&sharer_sharetime=1568635129336&sharer_shareid=e60ad1cd398dace4f78db1c63aeaafd3&key=78d707e7700bca66f6ead793b79eb81382e3186ab826c0b196322331b79da74c96e10e5e24ab09eea0d349fad94131a7b3c12cc04c59837ef8929aa09fafbce0cd353807b52c53763f565fcac9ced7df&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=L5n9EF9qknR3YDsRwca2VVImCvPr%2BrBsI45OWbYFQWfczrT89L2RULDEdHD%2FddeZ)
+9. [如何居中一个元素（终结版）](https://github.com/ljianshu/Blog/issues/29)
 ## SSR
 1. [react + koa SSR](https://juejin.im/post/5c627d9b6fb9a049f23d3e38)
 ## webpack
