@@ -94,3 +94,6 @@
 1. [高频JavaScript手写面试题及答案](https://mp.weixin.qq.com/s/CY-igdCB_U-DtA4E2BKhhA)
 ## web 安全
 1. [简析 6 种 Web 安全漏洞及解决方案](https://mp.weixin.qq.com/s/tBKZj6lNd2OcINPjMsCEtQ)
+
+## 服务端
+1. [Nginx 初探](https://juejin.im/post/5d9a91e06fb9a04e3f4efbb9?utm_source=gold_browser_extension#heading-12)
