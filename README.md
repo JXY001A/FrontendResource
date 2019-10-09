@@ -97,3 +97,4 @@
 
 ## 服务端
 1. [Nginx 初探](https://juejin.im/post/5d9a91e06fb9a04e3f4efbb9?utm_source=gold_browser_extension#heading-12)
+2. [写给前端工程师的 Serverless 入门](https://juejin.im/post/5d9c47dce51d4578045a3569?utm_source=gold_browser_extension#heading-0)
