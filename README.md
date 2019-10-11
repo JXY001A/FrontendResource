@@ -82,6 +82,7 @@
 ## 浏览器
 1. [探寻浏览器渲染的秘密](https://mp.weixin.qq.com/s/WJXd4p3H97Lzr-8pFu9wgw)
 2. [11道浏览器原理面试题](https://juejin.im/post/5d89798d6fb9a06b102769b1?utm_source=gold_browser_extension)
+3. [Chrome Devtools 高级调试指南（新）](https://juejin.im/post/5d9eea84e51d4577eb5d8510?utm_source=gold_browser_extension#heading-26)
 ## 自动化测试
 1. [前端自动化测试](https://juejin.im/post/5d7605c2f265da03ed1978ff)
 2. [AST抽象语法树——最基础的javascript重点知识，99%的人根本不了解](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247484193&idx=1&sn=68cafb893f468f7f6b99540f0a338c12&chksm=9782cda8a0f544be052d760a424e7f85d04dcf03348a3ef7fb50dd63a914c9352d0fb1f41285&mpshare=1&scene=1&srcid=&sharer_sharetime=1568682793507&sharer_shareid=e60ad1cd398dace4f78db1c63aeaafd3&key=47de780100f2224df8d7250238cbc21e4d4fa900cb05ec6027bfc32764da80c21d21ac2a6411ffc04803a1832c0ea5169e8f569a510eaf19b42cd6abca11f56b9fb16dfc1b780f965b5191db1b70aad2&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=2dFoMTPna4%2FvQKeNNwvTYZg8pcmme73eC3XD4C3RsspJCDqu5ZOCq7nOjRDzlPwZ)
