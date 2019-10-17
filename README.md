@@ -103,3 +103,6 @@
 1. [Nginx 初探](https://juejin.im/post/5d9a91e06fb9a04e3f4efbb9?utm_source=gold_browser_extension#heading-12)
 2. [写给前端工程师的 Serverless 入门](https://juejin.im/post/5d9c47dce51d4578045a3569?utm_source=gold_browser_extension#heading-0)
 3. [node进阶——之事无巨细手写koa源码 - 掘金](https://juejin.im/post/5ba48fc4e51d450e704277fa)
+
+## http
+1. [HTTP/2与HTTP/3 的新特性](https://mp.weixin.qq.com/s?__biz=Mzg5ODA5NTM1Mw==&mid=2247484531&idx=1&sn=a1e07654966fe48eba57306ddc8db7d1&chksm=c06685e5f7110cf3cc310e9fcd6fb54287ccd7285f025141d4f3a425c1d4392b76bd75752db8&mpshare=1&scene=1&srcid=1016LKTVqNJEC8rlFu57izkR&sharer_sharetime=1571196702142&sharer_shareid=e60ad1cd398dace4f78db1c63aeaafd3&key=56aa8a3ff1cbe0d947fea1e5459c87744f0e3611fba9bf5198a151bf55fc5a249b5b79dbb70c20fbfff7934e584f2f7e20a1b523230743e2a0e3f91c59709a2a6e895b2c5bff8b9e561a1ce8d52fb57d&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=Np3j2kF1NDcoaZbsA1kboiDl2gzX%2B9crnuYk3lLX6O%2FE4hLzUb5Z7HifkfVbPVrB)
