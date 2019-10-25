@@ -69,6 +69,7 @@
 1. [逐步优雅的表单验证](https://juejin.im/post/5d5b4525e51d4561bb33fb4d?utm_source=gold_browser_extension)
 2. [前端程序员必须掌握之三角函数在前端动画中的应用](https://juejin.im/post/5d99b706e51d4577f9285c33?utm_source=gold_browser_extension)
 3. [各种文件上传攻略，从小图片到大文件断点续传](https://juejin.im/post/5da14778f265da5bb628e590?utm_source=gold_browser_extension#heading-18)
+4. [跨域总结](http://www.conardli.top/blog/article/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%92%8C%E7%BD%91%E7%BB%9C/%E5%85%A8%E9%9D%A2%E5%88%86%E6%9E%90%E5%89%8D%E7%AB%AF%E7%9A%84%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82%E6%96%B9%E5%BC%8F%EF%BC%88%E4%B8%89%EF%BC%89%E8%B7%A8%E5%9F%9F.html#%E5%8D%81%E4%BA%8C%E3%80%81%E8%B7%A8%E5%9F%9F%E6%80%BB%E7%BB%93)
 ## nodeJS
 1. [深入理解Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9?utm_source=gold_browser_extension#heading-2)
 2. [从零实现TypeScript简易版Koa](https://juejin.im/post/5d7ef64bf265da03da24c658?utm_source=gold_browser_extension)
