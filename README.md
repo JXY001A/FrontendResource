@@ -16,6 +16,7 @@
 ](https://stackoverflow.com/questions/14169384/why-do-built-in-functions-not-have-a-prototype-property)
 14. [JavaScript 工具函数大全](https://juejin.im/post/5da1a04ae51d45783d6122bf?utm_source=gold_browser_extension)
 15. [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+16. [macrotasks-and-microtasks](https://javascript.info/event-loop#macrotasks-and-microtasks)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
