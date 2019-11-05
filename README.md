@@ -18,6 +18,7 @@
 15. [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
 16. [macrotasks-and-microtasks](https://javascript.info/event-loop#macrotasks-and-microtasks)
 17. [async/await](https://zh.javascript.info/async-await#errorhandling)
+18. [promise实现](https://zhuanlan.zhihu.com/p/25178630)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
