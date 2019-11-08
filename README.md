@@ -65,6 +65,7 @@
 5. [前端工程化：Docker、k8s、Serverless](https://zhuanlan.zhihu.com/p/81735067?utm_source=wechat_session&utm_medium=social&utm_oi=635253896335986688)
 6. [前端工程化：Docker、k8s、Serverless](https://zhuanlan.zhihu.com/p/81735067?utm_source=wechat_session&utm_medium=social&utm_oi=635253896335986688)
 6. [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751?utm_source=gold_browser_extension)
+7. [前端部署发展史](https://juejin.im/post/5dc4ae67f265da4cfa7bbb9a?utm_source=gold_browser_extension#heading-6)
 ## HTTTP
 1. [图解HTTPS基本原理](https://juejin.im/post/5d53aa04f265da03934bd70c?utm_source=gold_browser_extension)
 2. [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
