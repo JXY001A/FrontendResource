@@ -109,7 +109,7 @@
 1. [高频JavaScript手写面试题及答案](https://mp.weixin.qq.com/s/CY-igdCB_U-DtA4E2BKhhA)
 ## web 安全
 1. [简析 6 种 Web 安全漏洞及解决方案](https://mp.weixin.qq.com/s/tBKZj6lNd2OcINPjMsCEtQ)
-2. [http host头攻击漏洞](http://www.db-sec.com/2019/05/%E6%A3%80%E6%B5%8B%E5%88%B0%E7%9B%AE%E6%A0%87url%E5%AD%98%E5%9C%A8http-host%E5%A4%B4%E6%94%BB%E5%87%BB%E6%BC%8F%E6%B4%9E%EF%BC%8C%E4%BF%AE%E5%A4%8D%E6%96%B9%E6%A1%88%EF%BC%9A%E5%9C%A8web%E6%9C%8D/)
+2. [http host头攻击漏洞](https://blog.csdn.net/u012903926/article/details/81702224)
 
 ## 服务端
 1. [Nginx 初探](https://juejin.im/post/5d9a91e06fb9a04e3f4efbb9?utm_source=gold_browser_extension#heading-12)
