@@ -46,6 +46,7 @@
 1. [webpack 4 新增 sideEffects 配置的作用和注意事项](https://juejin.im/post/5d4d39c35188256c234351ca?utm_source=gold_browser_extension)
 2. [Webpack优化——将你的构建效率提速翻倍](https://juejin.im/post/5d614dc96fb9a06ae3726b3e)
 3. [webpack原理](https://juejin.im/post/5d99a8265188254d014e364e?utm_source=gold_browser_extension)
+4. [Webpack揭秘——走向高阶前端的必经之路](https://juejin.im/post/5badd0c5e51d450e4437f07a)
 ## React
 1. [可靠React组件设计的7个准则之SRP](https://juejin.im/post/5d4acb28e51d45620771f082?utm_source=gold_browser_extension)
 2. [react-router源码解析](https://juejin.im/post/5d4a68f5e51d4561ae4da5c6?utm_source=gold_browser_extension)
