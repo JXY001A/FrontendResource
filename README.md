@@ -22,6 +22,7 @@
 18. [promise实现](https://zhuanlan.zhihu.com/p/25178630)
 19. [双精度浮点数](https://zh.wikipedia.org/wiki/%E9%9B%99%E7%B2%BE%E5%BA%A6%E6%B5%AE%E9%BB%9E%E6%95%B8)
 20. [各种手写源码](https://juejin.im/post/5dc3894051882517a652dbd7?utm_source=gold_browser_extension)
+20. [剪切复制相关功能实现](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
