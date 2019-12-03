@@ -44,6 +44,7 @@
 12. [中高级前端面试秘籍，助你直通大厂 css 篇](https://juejin.im/post/5dd53a555188254dfc223e82?utm_source=gold_browser_extension#heading-20)
 ## SSR
 1. [react + koa SSR](https://juejin.im/post/5c627d9b6fb9a049f23d3e38)
+2. [SSR](https://juejin.im/post/5bc7ea48e51d450e46289eab)
 ## webpack
 1. [webpack 4 新增 sideEffects 配置的作用和注意事项](https://juejin.im/post/5d4d39c35188256c234351ca?utm_source=gold_browser_extension)
 2. [Webpack优化——将你的构建效率提速翻倍](https://juejin.im/post/5d614dc96fb9a06ae3726b3e)
