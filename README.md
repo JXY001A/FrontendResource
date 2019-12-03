@@ -23,6 +23,7 @@
 19. [双精度浮点数](https://zh.wikipedia.org/wiki/%E9%9B%99%E7%B2%BE%E5%BA%A6%E6%B5%AE%E9%BB%9E%E6%95%B8)
 20. [各种手写源码](https://juejin.im/post/5dc3894051882517a652dbd7?utm_source=gold_browser_extension)
 20. [剪切复制相关功能实现](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard)
+21. [promise 10问](https://mp.weixin.qq.com/s?__biz=MzAwNzQ2ODEyMQ==&mid=2247483946&idx=1&sn=e15e1ff7baad9dd39fc439a62321462e&chksm=9b7ce71cac0b6e0add2a2710a820267084c3f49addd7c40567003ef421e66d345cb3ff4b0879&mpshare=1&scene=1&srcid=&sharer_sharetime=1574332023721&sharer_shareid=732c7b659e7f45bc1ae1f2d0eeea0ee1&key=fc568c7f64229b8f14a8e356a5833700f4383be3fd6e711c643369d7fdeed424f07e683f2946a583e7b1a0380d5e60f303f9d3a466441005c3a05adb0444b0f7c3066e40593532737b1b672d7c6d0cf3&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=JX8iArRBNxeDC8vzp%2FQS4UyhBSrdJhrya7Zpn%2B7%2Bq02IGuJvUgEjATyhTcbIMcwO)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
@@ -45,6 +46,7 @@
 ## SSR
 1. [react + koa SSR](https://juejin.im/post/5c627d9b6fb9a049f23d3e38)
 2. [SSR](https://juejin.im/post/5bc7ea48e51d450e46289eab)
+3. [SSR](https://zhuanlan.zhihu.com/p/76967335?utm_source=wechat_session&utm_medium=social&utm_oi=635253896335986688)
 ## webpack
 1. [webpack 4 新增 sideEffects 配置的作用和注意事项](https://juejin.im/post/5d4d39c35188256c234351ca?utm_source=gold_browser_extension)
 2. [Webpack优化——将你的构建效率提速翻倍](https://juejin.im/post/5d614dc96fb9a06ae3726b3e)
@@ -109,6 +111,7 @@
 ## 面试
 1. [常见的三个 JS 面试题](https://juejin.im/post/5d8bfef051882511f444f565?utm_source=gold_browser_extension)
 2. [从阿里一面谈面试需要准备什么](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247484365&idx=1&sn=ec2c4c116269954d2fd38855fec22e78&chksm=c0252e9bf752a78d60de5f60e0efbdacc8057e7bb6fead72957499289bf527739c8971d8c1a7&mpshare=1&scene=1&srcid=0919XycOVs0SmBpZ3cMbJvOV&sharer_sharetime=1568855587755&sharer_shareid=268d91857fbd99684d42b4b3d4b21c1a&key=5e5ca5e19216e6f6563cb8c800c6762e3331ba9ec8aec0af0f3f6341159c65ce1eff29a270aaf209b3c612c60f036dc3e8101bbecda2bc5e55ec7c2c6c3f39b8979e71fdff89172b681c2facce26c56c&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=L5n9EF9qknR3YDsRwca2VVImCvPr%2BrBsI45OWbYFQWfczrT89L2RULDEdHD%2FddeZ)
+3. [关键题目](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490937&idx=1&sn=e6b2506c9813ffb9eeddae8a86e384fb&chksm=f951a83ace26212c6c4972383f3b79530cb27b9240f6ea027d8b4f624a338b6e03944954326c&mpshare=1&scene=1&srcid=&sharer_sharetime=1575353957765&sharer_shareid=e60ad1cd398dace4f78db1c63aeaafd3&key=326b00f0c5b60e570864a5551b14d6ac75fb62771cd4db43ed4169df264356f586b1cc733938ead10436fd445ebf44075f0795f4d942e02d642354f73e862b85f774834c8492d693af810988a7f50109&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=JX8iArRBNxeDC8vzp%2FQS4UyhBSrdJhrya7Zpn%2B7%2Bq02IGuJvUgEjATyhTcbIMcwO)
 ##  软件
 1. [开源软件 | 使用可视化界面自定义输出带注释的项目文件树形结构](https://juejin.im/post/5d8d83656fb9a04ddb3b6630?utm_source=gold_browser_extension)
 ## 原生功能实现
