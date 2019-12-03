@@ -66,6 +66,7 @@
 11. [完全理解 redux（从零实现一个 redux）](https://juejin.im/entry/5d802a09e51d4561c541a763?utm_source=gold_browser_extension)
 12. [使用 React Hook 检查网络连接状态](https://juejin.im/post/5d81f81f6fb9a06adb80185c)
 13. [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d?utm_source=gold_browser_extension#heading-28)
+14. [useEffects](https://juejin.im/post/5c9827745188250ff85afe50)
 14. [Fiber](https://www.yuque.com/floveluy/zhengfang/gc2v1y)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
