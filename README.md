@@ -24,6 +24,7 @@
 20. [各种手写源码](https://juejin.im/post/5dc3894051882517a652dbd7?utm_source=gold_browser_extension)
 20. [剪切复制相关功能实现](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard)
 21. [promise 10问](https://mp.weixin.qq.com/s?__biz=MzAwNzQ2ODEyMQ==&mid=2247483946&idx=1&sn=e15e1ff7baad9dd39fc439a62321462e&chksm=9b7ce71cac0b6e0add2a2710a820267084c3f49addd7c40567003ef421e66d345cb3ff4b0879&mpshare=1&scene=1&srcid=&sharer_sharetime=1574332023721&sharer_shareid=732c7b659e7f45bc1ae1f2d0eeea0ee1&key=fc568c7f64229b8f14a8e356a5833700f4383be3fd6e711c643369d7fdeed424f07e683f2946a583e7b1a0380d5e60f303f9d3a466441005c3a05adb0444b0f7c3066e40593532737b1b672d7c6d0cf3&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=JX8iArRBNxeDC8vzp%2FQS4UyhBSrdJhrya7Zpn%2B7%2Bq02IGuJvUgEjATyhTcbIMcwO)
+22. [JavaScript 装饰器](https://aotu.io/notes/2016/10/24/decorator/index.html)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
