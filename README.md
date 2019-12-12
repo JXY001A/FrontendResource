@@ -104,6 +104,7 @@
 7. [web 前端用 linux 应该知道的知识](https://juejin.im/post/5d7df75d6fb9a06b1c745c7c?utm_source=gold_browser_extension#heading-16)
 8. [前端必备 Nginx 配置](https://juejin.im/post/5d7e49c8f265da03ce3a0884?utm_source=gold_browser_extension#heading-3)
 9. [如何不花钱让html5播放rtsp视频流](https://juejin.im/post/5d8487926fb9a06b04723934?utm_source=gold_browser_extension)
+10. [交互动画库](https://juejin.im/post/5decdb00518825124e13d87b?utm_source=gold_browser_extension#heading-1)
 ## 浏览器
 1. [探寻浏览器渲染的秘密](https://mp.weixin.qq.com/s/WJXd4p3H97Lzr-8pFu9wgw)
 2. [11道浏览器原理面试题](https://juejin.im/post/5d89798d6fb9a06b102769b1?utm_source=gold_browser_extension)
