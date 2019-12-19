@@ -26,6 +26,8 @@
 21. [promise 10问](https://mp.weixin.qq.com/s?__biz=MzAwNzQ2ODEyMQ==&mid=2247483946&idx=1&sn=e15e1ff7baad9dd39fc439a62321462e&chksm=9b7ce71cac0b6e0add2a2710a820267084c3f49addd7c40567003ef421e66d345cb3ff4b0879&mpshare=1&scene=1&srcid=&sharer_sharetime=1574332023721&sharer_shareid=732c7b659e7f45bc1ae1f2d0eeea0ee1&key=fc568c7f64229b8f14a8e356a5833700f4383be3fd6e711c643369d7fdeed424f07e683f2946a583e7b1a0380d5e60f303f9d3a466441005c3a05adb0444b0f7c3066e40593532737b1b672d7c6d0cf3&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=JX8iArRBNxeDC8vzp%2FQS4UyhBSrdJhrya7Zpn%2B7%2Bq02IGuJvUgEjATyhTcbIMcwO)
 22. [JavaScript 装饰器](https://aotu.io/notes/2016/10/24/decorator/index.html)
 23. [前端防御性编程](https://juejin.im/post/5de91d0f51882512400acafd)
+24. [JS模块化规范总结(面试必备良药)](https://mp.weixin.qq.com/s/dCdLD6zf5qjne2DPXQ7T-Q)
+25. [Web 安全总结(面试必备良药)](https://mp.weixin.qq.com/s?__biz=MzI1ODk2Mjk0Nw==&mid=2247484867&idx=1&sn=e4a8c3a3169f4f45eebadd383dff9145&chksm=ea0166afdd76efb90c8f209f7d3c6c2341b48b9597f7c49a2fbaf6dbfe311839ba5d17be184a&mpshare=1&scene=1&srcid=&sharer_sharetime=1576743752193&sharer_shareid=97b5de56c040c8b20d5d172683943dcf&key=ed51e25ae07a7464799a04351998797c3a0451ea6c01716e36697f77fdbf1588a8a7ff816566bff944f0893efae17e516300986f9ec036dcc719436d78126a2069aa46091d44adaeb4c80e3a1ae8815c&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=A7kjGtDAHdFexcDS4m3dJpQ%3D&pass_ticket=Q0UCnrpZxVO2ZHcB74YQAisZbzgFALlhBrZ9ctnWrNkFKsCGX%2B8rY2B3IqadFMJL)
 ## 移动端
 ### 移动端适配
 1. [移动端适配你需要知道的](https://juejin.im/post/5cddf289f265da038f77696c?utm_source=gold_browser_extension)
@@ -79,6 +81,8 @@
 6. [前端工程化：Docker、k8s、Serverless](https://zhuanlan.zhihu.com/p/81735067?utm_source=wechat_session&utm_medium=social&utm_oi=635253896335986688)
 6. [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751?utm_source=gold_browser_extension)
 7. [前端部署发展史](https://juejin.im/post/5dc4ae67f265da4cfa7bbb9a?utm_source=gold_browser_extension#heading-6)
+8. [自己的项目脚手架](https://mp.weixin.qq.com/s/LZlhU6UIaZIOtVdnBL84EQ)
+9. [京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/CDcjmi3VTyTpt31JlB75DA)
 ## HTTTP
 1. [图解HTTPS基本原理](https://juejin.im/post/5d53aa04f265da03934bd70c?utm_source=gold_browser_extension)
 2. [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
