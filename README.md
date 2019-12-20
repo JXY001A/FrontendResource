@@ -39,7 +39,7 @@
 2. [css掩人耳目式海浪动效🌊](https://juejin.im/post/5d4c01dbf265da03e61afcfd?utm_source=gold_browser_extension)
 3. [你所不知道的 CSS 负值技巧与细节](https://juejin.im/post/5d4b8707f265da03a65302bd?utm_source=gold_browser_extension)
 4. [react-router源码解析](https://juejin.im/post/5d4a68f5e51d4561ae4da5c6?utm_source=gold_browser_extension)
-5. [聊一聊CSS动画](https://juejin.im/post/5d2351506fb9a07eb74b617a?utm_source=gold_browser_extension)
+5. [聊一聊CSS动画](https://juejin.im/post/5b45c878f265da0f783c89a6#heading-1)
 6. [灵活运用CSS开发技巧(66个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293?utm_source=gold_browser_extension)
 7. [用css3实现惊艳面试官的背景即背景动画](https://juejin.im/post/5d86fc096fb9a06ae94d6d7a?utm_source=gold_browser_extension)
 8. [CSS如何在幕后工作](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=2&sn=afe905aeb2942aaa506253678fccd322&chksm=f95256ebce25dffd1957cba7ce5e844194b94cbd7f6b24f3d28c3418ec3aa0671c844ef18d3b&mpshare=1&scene=1&srcid=&sharer_sharetime=1568635129336&sharer_shareid=e60ad1cd398dace4f78db1c63aeaafd3&key=78d707e7700bca66f6ead793b79eb81382e3186ab826c0b196322331b79da74c96e10e5e24ab09eea0d349fad94131a7b3c12cc04c59837ef8929aa09fafbce0cd353807b52c53763f565fcac9ced7df&ascene=1&uin=Nzg5MzEyOTE4&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=L5n9EF9qknR3YDsRwca2VVImCvPr%2BrBsI45OWbYFQWfczrT89L2RULDEdHD%2FddeZ)
