@@ -72,6 +72,8 @@
 13. [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d?utm_source=gold_browser_extension#heading-28)
 14. [useEffects](https://juejin.im/post/5c9827745188250ff85afe50)
 14. [Fiber](https://www.yuque.com/floveluy/zhengfang/gc2v1y)
+15. [深入理解：React hooks是如何工作的](https://mp.weixin.qq.com/s/hvdaknxICmbFEti0lrj8Ag)
+16. [React Hooks: 没有魔法，只是数组](https://mp.weixin.qq.com/s/a3l7ZyAHMlSPicjmexW-Yw)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
 2. [15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364?utm_source=gold_browser_extension)
