@@ -74,6 +74,7 @@
 14. [Fiber](https://www.yuque.com/floveluy/zhengfang/gc2v1y)
 15. [深入理解：React hooks是如何工作的](https://mp.weixin.qq.com/s/hvdaknxICmbFEti0lrj8Ag)
 16. [React Hooks: 没有魔法，只是数组](https://mp.weixin.qq.com/s/a3l7ZyAHMlSPicjmexW-Yw)
+17. [React Hooks异步操作二三事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234326&idx=2&sn=ee3c1fc837773eb178744499d67704c1&chksm=bd4979928a3ef08421279837b7eae5647082866376e511422d40b1de64ed4de04a0dcf462fa1&scene=21#wechat_redirect)
 ## 前端工程化
 1. [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b?utm_source=gold_browser_extension)
 2. [15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364?utm_source=gold_browser_extension)
