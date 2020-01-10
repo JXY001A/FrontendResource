@@ -89,6 +89,7 @@
 7. [前端部署发展史](https://juejin.im/post/5dc4ae67f265da4cfa7bbb9a?utm_source=gold_browser_extension#heading-6)
 8. [自己的项目脚手架](https://mp.weixin.qq.com/s/LZlhU6UIaZIOtVdnBL84EQ)
 9. [京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/CDcjmi3VTyTpt31JlB75DA)
+10. [Serverless 与前端工程化结合：让项目 5 分钟上线成为可能](https://mp.weixin.qq.com/s/qE99CEqWrtxxISBISAQAKA)
 ## HTTTP
 1. [图解HTTPS基本原理](https://juejin.im/post/5d53aa04f265da03934bd70c?utm_source=gold_browser_extension)
 2. [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
