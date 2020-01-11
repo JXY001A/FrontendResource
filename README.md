@@ -31,6 +31,7 @@
 26. [终极深度拷贝](https://segmentfault.com/a/1190000016672263)
 27. [Performance API](https://alligator.io/js/js-performance-api/)
 28. [preload 和 prefetch](https://juejin.im/post/5a7fb09bf265da4e8e785c38#heading-14)
+29. [PWA 等新技术](https://lavas.baidu.com/pwa)
 
 ## 移动端
 ### 移动端适配
