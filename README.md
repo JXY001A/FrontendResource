@@ -74,6 +74,7 @@
 8. [React源码解析之ExpirationTime](https://juejin.im/post/5d6a572ce51d4561fa2ec0bc?utm_source=gold_browser_extension)
 9. [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 10. [TypeScript与React的实战技巧](https://mp.weixin.qq.com/s/0OOftjQjxr2nXDB4PgnfOw)
+11. [TypeScript与React的实战技巧2](https://juejin.im/post/5bab4d59f265da0aec22629b#heading-14)
 11. [完全理解 redux（从零实现一个 redux）](https://juejin.im/entry/5d802a09e51d4561c541a763?utm_source=gold_browser_extension)
 12. [使用 React Hook 检查网络连接状态](https://juejin.im/post/5d81f81f6fb9a06adb80185c)
 13. [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d?utm_source=gold_browser_extension#heading-28)
